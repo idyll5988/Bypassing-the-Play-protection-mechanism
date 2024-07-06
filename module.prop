@@ -1,0 +1,6 @@
+id=Play
+name=绕过Play保护机制
+version=v1
+versionCode=1
+author=idyll™2018
+description=[运行中😊]📲设备优化:阻止Play服务获取GSF ID，从而可能绕过Play保护机制！无视Play保护机制设置开启！
