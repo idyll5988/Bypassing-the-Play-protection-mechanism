@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/79fa6bef-8291-4d79-852e-f31c0870b2a6
+
 Bypassing-the-Play-protection-mechanism
 
 阻止Play服务获取GSF ID，从而可能绕过Play保护机制！无视Play保护机制设置开启
