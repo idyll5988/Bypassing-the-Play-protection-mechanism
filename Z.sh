@@ -14,6 +14,9 @@ cd ${MODDIR}/ll/log
 log
 globals=(
 "package_verifier_enable 0"
+"verify_apps 0"
+"google_play_scanning disabled"
+"google_play_protection_disabled 1"
 )
 success_count=0
 failure_count=0
