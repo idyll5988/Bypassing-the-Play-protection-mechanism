@@ -5,9 +5,9 @@ Bypassing-the-Play-protection-mechanism
 
 阻止Play服务获取GSF ID，从而可能绕过Play保护机制！无视Play保护机制设置开启
 
-Be sure to flash the module before the first scan. The scanned image is also annoying.
+Play保护机制提示  清下Play商店数据 手动关闭Play保护机制设置开关 
 
-一定在首次扫描前刷入次模块 扫描出来的看着也烦人
+Play protection mechanism tip Clear down Play Store data Manually disable Play protection mechanism setting switch 
 
 搭配 PlayIntegrityFix 使用 末获取认证也可以 获取认证后可以卸载PlayIntegrityFix
 
